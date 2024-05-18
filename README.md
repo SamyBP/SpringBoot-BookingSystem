@@ -3,7 +3,8 @@
 ## Setup
 
 ### 1. Clone the repository
-### 2. Configure the application.properties file
+### 2. Run the dump.sql script
+### 3. Configure the application.properties file
 - Navigate to `src/main/resources/application.properties`.
 - Update the required configurations such as database connection details
 
