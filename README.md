@@ -87,3 +87,5 @@
     "reservationId" : 5,
     "information" : " "
   }
+
+**Note:** The JSON structures provided in the request bodies are examples.
